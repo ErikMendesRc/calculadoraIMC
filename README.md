@@ -1,4 +1,4 @@
-# tripsandtricks
+# Calculaora IMC Simples
 
 A new Flutter project.
 
