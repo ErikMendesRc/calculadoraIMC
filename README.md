@@ -1,4 +1,4 @@
-# Calculaora IMC Simples
+# Calculadora IMC Simples
 
 A new Flutter project.
 
